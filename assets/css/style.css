@@ -1,0 +1,50 @@
+
+.pre-session-head{
+    background-color: #b6d7a8;
+}
+
+.pre-session{
+    background-color: #d9ead3;
+}
+
+.in-session-head{
+    background-color: #f6b26b;
+}
+
+.in-session{
+    background-color: #fce5cd;
+}
+
+.after-session-head{
+    background-color: #d9d2e9;
+}
+
+.after-session{
+    background-color: #b4a7d6;
+}
+
+.tools-head{
+    background-color: #9fc5e8;
+}
+
+.tools{
+    background-color: #cfe2f3;
+}
+
+.bots-head{
+    background-color: #666666;
+    color: #efefef;
+}
+
+.bots{
+    background-color: #999999;
+    color: #fefefe;
+}
+
+.other-head{
+    background-color: #e8e4e4;
+}
+
+.other{
+    background-color: #f5f5f0;
+}
